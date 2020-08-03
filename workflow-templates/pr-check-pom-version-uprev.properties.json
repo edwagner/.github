@@ -1,0 +1,12 @@
+{
+    "name": "PR Check - version uprev in pom.xml",
+    "description": "Verify that the <version> in pom.xml has changed.",
+    "iconName": "git-pull-request-24",
+    "categories": [
+        "Java",
+        "Maven POM"
+    ],
+    "filePatterns": [
+        "^pom.xml$"
+    ]
+}
